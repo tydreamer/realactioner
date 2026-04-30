@@ -1,11 +1,4 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
-
-<h1 align="center">Hi 👋, I'm Real Actioner</h1>
-<h3 align="center">A passionate Software Engineer & Problem Solver </h3>
-
-<p align="center"> 
- <img src="https://img.shields.io/badge/Languages-Python | Java | Javascript | Typescript | C++ -green.svg" alt="Real Actioner's languages" />
-</p>
+![Header](./[assets/github-header-banner.png])
 
 ## ✨ About Me
 
