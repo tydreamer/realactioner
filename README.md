@@ -25,9 +25,7 @@
 
 ## 📅 Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/realactioner/realactioner/main/metrics.plugin.isocalendar.fullyear.svg" alt="Contribution calendar" />
-</p>
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## 🛠️ Skills
 
