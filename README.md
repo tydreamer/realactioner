@@ -22,7 +22,10 @@
 
 ## 🛠️ Skills
 
-<table align="center">
+<table align="center" width="100%">
+  <colgroup>
+    <col span="8" width="12.5%" />
+  </colgroup>
   <tr>
     <td align="center" width="90">
       <img src="assets/skillicons/python.svg" alt="Python" title="Python" width="48" height="48" /><br />Python
@@ -63,13 +66,13 @@
       <img src="assets/skillicons/redux.svg" alt="Redux" title="Redux" width="48" height="48" /><br />Redux
     </td>
     <td align="center" width="90">
-      <img src="assets/skillicons/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" width="48" height="48" /><br />Tailwind CSS
+      <img src="assets/skillicons/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" width="48" height="48" /><br />Tailwind&nbsp;CSS
     </td>
     <td align="center" width="90">
-      <img src="assets/skillicons/materialui.svg" alt="Material UI" title="Material UI" width="48" height="48" /><br />Material UI
+      <img src="assets/skillicons/materialui.svg" alt="Material UI" title="Material UI" width="48" height="48" /><br />Material&nbsp;UI
     </td>
     <td align="center" width="90">
-      <img src="assets/skills/reactnative-colored.svg" alt="React Native" title="React Native" width="48" height="48" /><br />React Native
+      <img src="assets/skills/reactnative-colored.svg" alt="React Native" title="React Native" width="48" height="48" /><br />React&nbsp;Native
     </td>
     <td align="center" width="90">
       <img src="assets/skillicons/flutter.svg" alt="Flutter" title="Flutter" width="48" height="48" /><br />Flutter
@@ -86,7 +89,7 @@
       <img src="assets/skillicons/swift.svg" alt="Swift" title="Swift" width="48" height="48" /><br />Swift
     </td>
     <td align="center" width="90">
-      <img src="assets/skillicons/androidstudio.svg" alt="Android Studio" title="Android Studio" width="48" height="48" /><br />Android Studio
+      <img src="assets/skillicons/androidstudio.svg" alt="Android Studio" title="Android Studio" width="48" height="48" /><br />Android&nbsp;Studio
     </td>
     <td align="center" width="90">
       <img src="assets/skillicons/nodejs.svg" alt="Node.js" title="Node.js" width="48" height="48" /><br />Node.js
@@ -173,10 +176,10 @@
       <img src="assets/skillicons/crewai.svg" alt="CrewAI" title="CrewAI" width="48" height="48" /><br />CrewAI
     </td>
     <td align="center" width="90">
-      <img src="assets/skillicons/huggingface.svg" alt="Hugging Face" title="Hugging Face" width="48" height="48" /><br />Hugging Face
+      <img src="assets/skillicons/huggingface.svg" alt="Hugging Face" title="Hugging Face" width="48" height="48" /><br />Hugging&nbsp;Face
     </td>
     <td align="center" width="90">
-      <img src="assets/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="48" height="48" /><br />VS Code
+      <img src="assets/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="48" height="48" /><br />VS&nbsp;Code
     </td>
   </tr>
 </table>
