@@ -4,7 +4,6 @@
 
 <br>
 
-- 🔭 9+ years building Full Stack, AI, and Mobile applications in production environments
 - 🧠 Build LLM-powered systems and intelligent workflows for real-world use cases
 - 🔍 Work on RAG pipelines and semantic search systems over large unstructured datasets
 - ⚡ Design low-latency, real-time backend services with a strong focus on performance
